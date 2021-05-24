@@ -15,7 +15,7 @@ I am currently learning :point_down:
 
 :cloud:Cloud-Azure::cloud:
 
-We can connect on 
+We can connect on goyaltanu25@gmail.com
 
 
 
