@@ -2,7 +2,7 @@ Hey I am Tanu Goyal. :information_desk_person:
 
 I am experienced at :point_down:
 
-1. ReactJS
+1. <a>ReactJS</a>
 2. Angular 2+
 3. JavaScript
 4. HTML/HTML5
