@@ -3,20 +3,20 @@
 # Hello, folks! I am Tanu Goyal. :information_desk_person:
 
 
-Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
+Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?page_id=page.id)
 
 # I am experienced at :point_down:
 
-1. ReactJS
-2. Angular 2+
-3. JavaScript
-4. HTML/HTML5
-5. CSS/CSS3
+- ReactJS
+- Angular 2+
+- JavaScript
+- HTML/HTML5
+- CSS/CSS3
 
 # I am currently learning :point_down:
 
-1. Typescript
-2. Reading about Blockchain/Dapp/Solidity/Smart Contracts etc.
+- Typescript
+- Reading about Blockchain/Dapp/Solidity/Smart Contracts etc.
 
 # :cloud:  Cloud-Azure  :cloud:
 
@@ -26,8 +26,6 @@ Glad to see you here ! ![visitors](https://visitor-badge.glitch.me/badge?page_id
 
 
 # We can connect on goyaltanu25@gmail.com
-
-
 
 
 
