@@ -12,6 +12,8 @@ Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?
 - JavaScript
 - HTML/HTML5
 - CSS/CSS3
+- Redux
+- Bootstrap
 
 # I am currently learning :point_down:
 
@@ -25,7 +27,7 @@ Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=goyaltanu25&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
 
 
-# We can connect on goyaltanu25@gmail.com
+We can connect on goyaltanu25@gmail.com
 
 
 
