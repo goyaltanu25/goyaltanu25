@@ -17,6 +17,7 @@ Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?
 
 # I am currently learning :point_down:
 
+- Nodejs, MongoDB, Expressjs.
 - Typescript
 - Reading about Blockchain/Dapp/Solidity/Smart Contracts etc.
 
