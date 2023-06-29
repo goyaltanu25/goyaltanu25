@@ -8,6 +8,7 @@ Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?
 # I am experienced at :point_down:
 
 - ReactJS
+- React Native
 - Angular 2+
 - JavaScript
 - HTML/HTML5
@@ -18,7 +19,6 @@ Glad to see you here ! &nbsp; ![visitors](https://visitor-badge.glitch.me/badge?
 # I am currently learning :point_down:
 
 - Nodejs, MongoDB, Expressjs.
-- Typescript
 - Reading about Blockchain/Dapp/Solidity/Smart Contracts etc.
 
 # :cloud:  Cloud-Azure  :cloud:
